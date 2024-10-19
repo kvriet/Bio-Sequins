@@ -11,7 +11,7 @@
 3. [Models](#models)
 
 ## The project <a name="project"></a>
-This project shows how sequins in the fashion industry can be made more sustainable by fabricating them from biodegradable plastics and using structural colour to create the required glitter effect. Structural colour relies on microstructures that refract light in such a way that a rainbow effect is achieved. By using this method to create glitter effects, any material can be used to create these types of sequins, including biodegradable materials. 
+This project shows how sequins in the fashion industry can be made more sustainable by fabricating them from biodegradable plastics and using structural colour to create the required glitter effect. Structural colour relies on microstructures that refract light in such a way that a rainbow effect is achieved. By using a 3D printer buildplate with a structural colour film on top, the printed parts will form themselves to the microstructure on the buildplate and consequently mirror it. By using this method to create glitter effects, any material can be used to create these types of sequins, including biodegradable materials. 
 
 ## Materials <a name="materials"></a>
 To create these sequins, you will need:
