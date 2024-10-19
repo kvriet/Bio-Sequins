@@ -19,6 +19,8 @@ To create these sequins, you will need:
 * A holographic buildplate to create the structural colour. Search on AliExpress with terms like: 'holographic buildplate'. This might be a good option: <a href="https://nl.aliexpress.com/item/1005007589248431.html">https://nl.aliexpress.com/item/1005007589248431.html</a>
 * (Access to) a 3D printer, like an Ender 3. Heated bed is not needed.
 
+\* PLA is technically biodegradable under certain specific conditions.
+
 ## Models <a name="models"></a>
 This Github repository provides some parametric <a href="www.openscad.org">OpenSCAD</a> programs so you can make your own sequins.
 
