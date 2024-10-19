@@ -1,5 +1,5 @@
 # Bio Sequins
- Biodegradable sequins for the fashion industry
+ Biodegradable sequins for the fashion industry  
  Code MIT Licence, rest CC BY-NC Katrien van Riet and Alice Gielen
 
 ![Sequins](https://github.com/kvriet/Bio-Sequins/blob/main/Images/sequins.gif?raw=true)
