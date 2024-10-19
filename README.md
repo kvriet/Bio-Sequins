@@ -2,7 +2,7 @@
  Biodegradable sequins for the fashion industry
  CC BY-NC Katrien van Riet and Alice Gielen
 
-![Sequins](https://github.com/kvriet/Bio-Sequins/blob/main/sequins%20big.png?raw=true)
+![Sequins](https://github.com/kvriet/Bio-Sequins/blob/main/Images/sequins.gif?raw=true)
 
  ## Table of contents
 
@@ -22,7 +22,7 @@ To create these sequins, you will need:
 ## Models <a name="models"></a>
 This Github repository provides some parametric <a href="www.openscad.org">OpenSCAD</a> programs so you can make your own sequins.
 
-![OpenSCAD](https://github.com/kvriet/Bio-Sequins/blob/main/OpenSCAD%20interface.png?raw=true)
+![OpenSCAD](https://github.com/kvriet/Bio-Sequins/blob/main/Images/OpenSCAD%20interface.png?raw=true)
 
 Alternatively, you can directly download the provided STLs and start printing.
 
