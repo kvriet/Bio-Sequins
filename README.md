@@ -20,4 +20,10 @@ To create these sequins, you will need:
 * (Access to) a 3D printer, like an Ender 3. Heated bed is not needed.
 
 ## Models <a name="models"></a>
-This Github repository provides some OpenSCAD 
+This Github repository provides some parametric <a href="www.openscad.org">OpenSCAD</a> programs so you can make your own sequins.
+
+![OpenSCAD](https://github.com/kvriet/Bio-Sequins/blob/main/OpenSCAD%20interface.png?raw=true)
+
+Alternatively, you can directly download the provided STLs and start printing.
+
+Happy sequining!
