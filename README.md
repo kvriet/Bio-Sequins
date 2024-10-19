@@ -23,7 +23,7 @@ To create these sequins, you will need:
 \* PLA is technically biodegradable under certain specific conditions.
 
 ## Models <a name="models"></a>
-This Github repository provides some parametric <a href="www.openscad.org">OpenSCAD</a> programs so you can make your own sequins.
+This Github repository provides some parametric <a href="www.openscad.org">OpenSCAD</a> programs so you can design your own sequins.
 
 ![OpenSCAD](https://github.com/kvriet/Bio-Sequins/blob/main/Images/OpenSCAD%20interface.png?raw=true)
 
