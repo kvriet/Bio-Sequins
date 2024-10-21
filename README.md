@@ -30,8 +30,10 @@ This Github repository provides some parametric <a href="www.openscad.org">OpenS
 Alternatively, you can directly download the provided STLs and start printing.
 
 ![Buidplate_sequins](https://github.com/kvriet/Bio-Sequins/blob/main/Images/buildplate%20with%20outline%20of%20sequins.jpg?raw=true)
+First outline of sequins being printed on the holographic buildplate. Notice how closely the holographic pattern in the plastic matches the pattern on the buildplate.
 
 Happy sequining!
 
 ## Examples <a name="examples"></a>
 ![Sequins_loom](https://github.com/kvriet/Bio-Sequins/blob/main/Images/sequins%20woven%20on%20loom.jpg?raw=true)
+Sequins woven into fabric on the loom. 
